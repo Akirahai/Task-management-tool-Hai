@@ -1,0 +1,6 @@
+
+List of incomplete tasks in deadline order:
+[ ] Priority 4: "Foaw hw" - Deadline: 29/4/2004
+[ ] Priority 3: "Computer system homework" - Deadline: 3/5/2023
+[ ] Priority 5: "Phys lab" - Deadline: 1/6/2023
+The number of incomplete tasks: 3
