@@ -57,7 +57,7 @@ To use the Task Management Tool (TMT), follow the instructions below:
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/Akirahai/Task_management_tool_Hai.git
+   git clone https://github.com/Akirahai/Task-management-tool-Hai.git
    ```
 
 2. Cd to the output file
